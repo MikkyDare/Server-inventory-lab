@@ -1,0 +1,2 @@
+web01: Webserver
+App01: Application server
